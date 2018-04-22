@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Robert
+ *
+ */
+module sherlockvalidstring {
+}
